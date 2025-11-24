@@ -1,5 +1,3 @@
-# sales-performance-analytics-dashboard
-
 # 📊 Sales Performance Analytics Dashboard – Power BI
 
 This repository contains a **Sales Performance Analytics Dashboard** built using **Microsoft Power BI**, designed to provide a comprehensive, interactive, and data-driven view of sales metrics, customer behavior, and operational performance.
